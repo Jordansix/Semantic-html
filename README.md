@@ -17,3 +17,6 @@ modified stlye sheet and addeded .benefit-brand img & .benefit-cost img to .bene
 I deleted div in the header and just put it as header cause div in the header was not relevent.
 
 After I had to deleted the .class element on all the headers in css style shhet because I deleted the div earlier and it was unnecessary to keep the . class elenemt.
+
+Changed the div in line 13 & 25 to nav type.
+
