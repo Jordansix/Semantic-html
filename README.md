@@ -13,3 +13,7 @@ Some text in the header h1 was shaded different and so i fixed that also.
 
 modified stlye sheet and addeded .benefit-brand img & .benefit-cost img to .benefit-lead to  make the code look cleaner instead of having all these seperated and taking up space" 
 [main 7dab23d] modified stlye sheet and addeded .benefit-brand img & .benefit-cost img to .benefit-lead to  make the code look cleaner instead of having all these seperated and taking up space.
+
+I deleted div in the header and just put it as header cause div in the header was not relevent.
+
+After I had to deleted the .class element on all the headers in css style shhet because I deleted the div earlier and it was unnecessary to keep the . class elenemt.
