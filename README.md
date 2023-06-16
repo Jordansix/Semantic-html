@@ -22,4 +22,5 @@ Changed the div in line 13 & 25 to nav type.
 
 Changed lines 27,28,29 to section instead of div and then changed what they were correlated to to section also cause div is not semantic.
 
+Changed lines with div and added section & also instead of div on line 51 & 72 I added aside"
 
