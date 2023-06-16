@@ -20,3 +20,6 @@ After I had to deleted the .class element on all the headers in css style shhet 
 
 Changed the div in line 13 & 25 to nav type.
 
+Changed lines 27,28,29 to section instead of div and then changed what they were correlated to to section also cause div is not semantic.
+
+
