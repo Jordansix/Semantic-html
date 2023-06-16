@@ -24,3 +24,5 @@ Changed lines 27,28,29 to section instead of div and then changed what they were
 
 Changed lines with div and added section & also instead of div on line 51 & 72 I added aside"
 
+Added notes to my read.me to document my progress & also added footer to line 74 & 79
+
